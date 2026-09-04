@@ -64,4 +64,8 @@ Testes são uma parte fundamental em nossa aplicação
 # esse comando irá rodar os testes
 python manage.py test
 ```
+---
+
+<img width="340" height="180" alt="Captura de tela 2026-09-04 010518" src="https://github.com/user-attachments/assets/9fc71d3b-9ce6-4cc6-9e37-8191b3385d38" />
+
 # Django Rest Framework
