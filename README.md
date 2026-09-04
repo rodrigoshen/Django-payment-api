@@ -55,4 +55,13 @@ output: 6.1
 # após a instalação e configuração rode esse programa
 python manage.py runserver
 ```
+## Realizando testes automatizados em nossas aplicações 
 
+Testes são uma parte fundamental em nossa aplicação
+
+*Comando para rodar os testes na aplicação*
+```bash
+# esse comando irá rodar os testes
+python manage.py test
+```
+# Django Rest Framework
